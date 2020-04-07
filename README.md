@@ -69,9 +69,13 @@ Los miembros del jurado son:
 
 Los premios serán dictados en cada post de publicación de cada evento, estos pueden variar cada año. De todas maneras los ganadores siempre aparecerán en el tablón principal de www.elhacker.net y en el listado de ganadores del post del evento.
 
+
 ## Participantes
 
-(se irán añadiendo según presentéis vuestros proyectos en este post)
+| Usuario       | Proyecto               | Enlace        |
+| ------------- | ---------------------- | ------------- |
+| crazykenny    | Bomba Fork en Basic    | [Foro](https://foro.elhacker.net/abril_negro/abril_negro_2020_malwaretipo_bomba_fork-t503780.0.html) |
+
 
 ## Votaciones
 
